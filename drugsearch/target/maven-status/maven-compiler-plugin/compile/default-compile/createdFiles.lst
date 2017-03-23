@@ -1,0 +1,5 @@
+com/ampel/drugsearch/DrugSearchApi.class
+com/ampel/drugsearch/config/DatabaseConfig.class
+com/ampel/drugsearch/model/Drug.class
+com/ampel/drugsearch/model/DrugDao.class
+com/ampel/drugsearch/Student.class
